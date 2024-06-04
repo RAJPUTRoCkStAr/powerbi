@@ -1,0 +1,54 @@
+there are six basic charts in powerbi 
+1 column chart 
+2 stacked column chart
+3 pie chart
+4 donut chart
+5 funnel chart
+6 ribbon chart
+7 keep only and exlude => this is to filter data 
+8 view data and export => this is to export or import data 
+in powerbi we can import data from 99+ data source in 
+
+to load certain data we can go to get data from above bar and than we can load data from where ever we want to get just select the data if its there in your system and then click on load the data we can visulize the data there is 2 thing x axis and y axis where we can select the data to visulize the data there are more than 30 + charts availabel till now 
+one thing here is column chart and stacked column chart are almost similar
+there are different ways to visulize the data and to format it to look good we just need to go to format and change according to our need and we want to show the client
+
+
+the include and exclude of data is to compare ot to filter some data for client to see we can use this feature by going to focus mode and using ctrl button we can select all the values we want to compare by again clicking on right button of mouse and than click on include to compare many values and to remove from certain chart we can use exclude to do so.
+
+to export data from powerbi just make a chart and than go to focus mode and than select a data what you want and than right click on mouse and than select show data point as table and than you can see export option there by default it will export data in csv format 
+
+to create a map in power bi we can select the map from visulaization bar and it will give us map and than we can see sales and other aspect of it One thing which is very important here is if the the state or column or whatever you have selected is in different form just select it will take you to column tools and from there select data category and select which type of column is present there 
+
+here tooltip is nothing but when you hover on mouse and it will show you the detail of the thing you want 
+
+to create map with pie chart we need to select map first and than select whatever filled we want in the different things and than you can see map with pie chart
+
+to format the map just go to format and you can see there are various options to format various thing of map using it  there is also theme style availabel for map in powerbi use it to customize it 
+
+to create any map of country you just need to have state name or something like that 
+
+you can manually enter data using enter data from navbar in powerbi and use it 
+
+Table and matrix in powerbi 
+
+to create a table simply import the data and than select table and drag and drop no of column you want to add 
+conditional formatting is very important in our table formatting it will you to understand data more clearly 
+
+to work on aggregation there is lot of things we can use it to do so 
+
+to create a matrix in powerbi we need to take care of 3 things that are rows columns and values what we want 
+
+how to make filter 
+hirearchies is nothing but sub category of something
+total and subtotal are all also there in format 
+we can also change the number format in powerbi from numbers to thousands and other things as well
+scatter plot is only the chart which have animation in it and for that what we need to do is make have date column and than we can play if we want to compare all data just press ctrl and select different point which you want to compare and you can go for it 
+
+
+gauge chart is useful if we want to target field with it 
+to make a target we can go to home and than new meausures and make a new target 
+
+
+there is a thing which is drill through which we can use it make different pages connector together
+
